@@ -1,0 +1,52 @@
+[
+  {
+    "id": 0,
+    "fullname": "Надеждин Никита",
+    "photo_url": "https://avatars.githubusercontent.com/u/110306787?v=4",
+    "created_at": "2023-01-18T12:30:00Z",
+    "phone": "12345678901",
+    "region": "Москва",
+    "login": "admin1",
+    "password": "Qq12345678"
+  },
+  {
+    "id": 1,
+    "fullname": "Кашапов Тимур",
+    "photo_url": "",
+    "created_at": "2023-01-18T12:30:00Z",
+    "phone": "12345678901",
+    "region": "Москва",
+    "login": "admin2",
+    "password": "Qq12345678"
+  },
+  {
+    "id": 2,
+    "fullname": "Степанов Антон",
+    "photo_url": "https://avatars.githubusercontent.com/u/152699068?v=4",
+    "created_at": "2023-01-18T12:30:00Z",
+    "phone": "12345678901",
+    "region": "Москва",
+    "login": "admin3",
+    "password": "Qq12345678"
+  },
+  {
+    "id": 3,
+    "fullname": "Хайдаров Мират",
+    "photo_url": "",
+    "created_at": "2023-01-18T12:30:00Z",
+    "phone": "12345678901",
+    "region": "Москва",
+    "login": "admin4",
+    "password": "Qq12345678"
+  },
+  {
+    "id": 4,
+    "fullname": "Гареева Аделя",
+    "photo_url": "https://avatars.githubusercontent.com/u/153000494?v=4",
+    "created_at": "2023-01-18T12:30:00Z",
+    "phone": "12345678901",
+    "region": "Москва",
+    "login": "admin5",
+    "password": "Qq12345678"
+  }
+]
