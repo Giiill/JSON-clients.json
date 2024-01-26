@@ -12,7 +12,7 @@
   {
     "id": 1,
     "fullname": "Кашапов Тимур",
-    "photo_url": "",
+    "photo_url": "https://avatars.githubusercontent.com/u/152699162?v=4",
     "created_at": "2023-01-18T12:30:00Z",
     "phone": "12345678901",
     "region": "Москва",
@@ -32,7 +32,7 @@
   {
     "id": 3,
     "fullname": "Хайдаров Мират",
-    "photo_url": "",
+    "photo_url": "https://avatars.githubusercontent.com/u/152899950?v=4",
     "created_at": "2023-01-18T12:30:00Z",
     "phone": "12345678901",
     "region": "Москва",
